@@ -5,3 +5,9 @@ Kelompok {GB1J}<br>
 Tahun Ajaran 2025/2026
 Semester Gasal<br><br>
 ![Logo ISBAL](logoisbal.png)
+# pertemuan-02
+NIM : 2511500076
+Nama : Julio Putrawan
+
+Hari ini, Kamis 02.Okt.2025 kami belajar:
+1
