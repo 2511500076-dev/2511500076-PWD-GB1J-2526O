@@ -10,4 +10,5 @@ Hari ini, Kamis 09 Oktober 2025 saya mempelajari:
 <li>menambahkan style css<li>
 <li>menambahkan style css h2<li>
 <li>menambahkan style css p<li>
+<li>menambahkan style css strong<li>
 <ol>
