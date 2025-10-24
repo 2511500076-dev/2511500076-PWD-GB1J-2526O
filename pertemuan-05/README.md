@@ -1,9 +1,10 @@
 # pertemuan-05
 
-NAMA:JULIO PUTRAWAN
-NIM:2511500076
+NIM : 2511500076<br>
+NAMA : Julio Putrawan<br>
 
-Hari ini, kamis 23 Oktober 2025, saya mempelajari:
+Hari ini, Kamis 09 Oktober 2025 saya mempelajari:
 <ol>
-<li>"copy index.html dan style css folder pertemuan-04 ke pertemuan-05"<li>
-<ol>
+<li>copy-paste isi index.html dan style.css (pertemuan-04) ke index.html dan style.css (pertemuan-05)<li>
+
+
