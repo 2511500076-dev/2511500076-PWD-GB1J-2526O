@@ -160,6 +160,12 @@
     }
 
     @media (max-width: 600px) {
+        .menu-toggle {
+            display: block;
+            position: absolute;
+            left: 16px;
+            top: 8px;
+        }
   
    #contact input,
    #contact textarea,
