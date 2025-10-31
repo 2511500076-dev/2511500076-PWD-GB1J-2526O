@@ -44,13 +44,16 @@
             $namaadik = "Barlian Tirta";
 
 
-
-
-
-
-
             echo "Nim: $nim <br>";
             echo "Nama: $nama <br>";
+            echo "Tempat lahir: $tempatlahir <br>";
+            echo "Tanggal lahir: $tanggallahir <br>";
+            echo "Hobi: $hobi <br>";
+            echo "Pasangan: $pasangan <br>";
+            echo "Pekerjaan: $pekerjaan <br>";
+            echo "Nama Orangtua: $namaorangtua <br>";
+            echo "Nama Kakak: $namakakak <br>";
+            echo "Nama adik: $namaadik <br>";
             ?>
             <h2>Tentang Saya</h2>
             
