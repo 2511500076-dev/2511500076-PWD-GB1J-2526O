@@ -37,23 +37,23 @@
             $tempatlahir = "Pangkalpinang";
             $tanggallahir = "01 Juli 2006";
             $hobi = "Bermain game";
-            $pasangan = "belum ada";
+            $pasangan = "Belum ada";
             $pekerjaan = "Teknisi";
             $namaorangtua = "Ibu Yuliana";
             $namakakak = "Tama Tamara";
             $namaadik = "Barlian Tirta";
+
+
+
+
+
+
+
+            echo "Nim: $nim <br>";
+            echo "Nama: $nama <br>";
             ?>
             <h2>Tentang Saya</h2>
-            <p><strong>NIM:</strong>2511500076 &#127891;</p>
-            <p><strong>Nama:</strong>Julio Putrawan &#128516;</p>
-            <P><strong>Tempat lahir:</strong>Pangkalpinang</P>
-            <p><strong>Tanggal lahir:</strong>01 Juli 2006 &#127874;</p>
-            <p><strong>Hobi:</strong>Bermain game &#127918;</p>
-            <p><strong>Pasangan:</strong>Belum ada &#128546;</p>
-            <p><strong>Pekerjaan:</strong>Teknisi &#128187;</p>
-            <p><strong>Nama Orang Tua:</strong>Ibu Yuliana &#129493;</p>
-            <p><strong>Nama Kakak:</strong>Tama Tamara &#128105;</p>
-            <p><strong>Nama adik:</strong>Barlian Tirta &#128102;</p>
+            
 
         </section>
         <section id="contact">
