@@ -37,26 +37,73 @@
             $tempatlahir = "Pangkalpinang";
             $tanggallahir = "01 Juli 2006";
             $hobi = "Bermain game";
-            $pasangan = "Belum ada";
+            $pasangan = "belum ada";
             $pekerjaan = "Teknisi";
             $namaorangtua = "Ibu Yuliana";
             $namakakak = "Tama Tamara";
             $namaadik = "Barlian Tirta";
-
-
-            echo "Nim: $nim <br>";
-            echo "Nama: $nama <br>";
-            echo "Tempat lahir: $tempatlahir <br>";
-            echo "Tanggal lahir: $tanggallahir <br>";
-            echo "Hobi: $hobi <br>";
-            echo "Pasangan: $pasangan <br>";
-            echo "Pekerjaan: $pekerjaan <br>";
-            echo "Nama Orangtua: $namaorangtua <br>";
-            echo "Nama Kakak: $namakakak <br>";
-            echo "Nama adik: $namaadik <br>";
             ?>
             <h2>Tentang Saya</h2>
-            
+            <p>
+                <strong>NIM:</strong>
+                <?php
+                echo $nim;
+                ?> 
+           </p>
+            <p>
+                <strong>Nama:</strong>
+                <?php
+                echo $nama;
+                ?> 
+        </p>
+            <P>
+                <strong>Tempat lahir:</strong>
+                Pangkalpinang<?php
+                echo $tempatlahir;
+                ?> 
+        </P>
+            <p>
+                <strong>Tanggal lahir:</strong>
+                <?php
+                echo $tanggallahir;
+                ?> 
+        </p>
+            <p>
+                <strong>Hobi:</strong>
+              <?php
+                echo $hobi;
+                ?> 
+        </p>
+            <p>
+                <strong>Pasangan:</strong>
+                <?php
+                echo $pasangan;
+                ?> 
+        </p>
+            <p>
+                <strong>Pekerjaan:</strong>
+                <?php
+                echo $pekerjaan;
+                ?> 
+        </p>
+            <p>
+                <strong>Nama Orang Tua:</strong>
+               <?php
+                echo $namaorangtua;
+                ?> 
+        </p>
+            <p>
+                <strong>Nama Kakak:</strong>
+            <?php
+                echo $namakakak;
+                ?> 
+        </p>
+            <p>
+                <strong>Nama adik:</strong>
+            <?php
+                echo $namaadik;
+                ?> 
+        </p>
 
         </section>
         <section id="contact">
