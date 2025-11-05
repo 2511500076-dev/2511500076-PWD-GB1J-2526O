@@ -106,6 +106,21 @@
         </p>
 
         </section>
+        <section id="ipk">
+            <?php
+             $namaMatkul1 = "Algoritma dan Struktur Data";
+             $sksMatkul1 = "4";
+             $nilaiHadir1 = "90";
+             $nilaiTugas1 = "60";
+             $nilaiUTS1 = "80";
+             $nilaiUAS1 = "70";
+             $nilaiAkhir1 = "73"; 
+             $grade1 = "B";
+             $mutu1 = "3.00";
+             $bobot1 = "12";
+             $status1 = "Lulus";
+            ?>
+        </section>
         <section id="contact">
             <h2>Kontak kami</h2>
             <form action="" method= "GET">
