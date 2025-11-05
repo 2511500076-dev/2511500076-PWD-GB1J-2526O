@@ -128,6 +128,9 @@
             </form>
 
         </section>
+        <section id="ipk">
+            <h2>Nilai Saya</h2>
+        </section>
     </main>
     <footer>
         <p>&copy; 2025 Julio Putrawan [2511500076]</p>

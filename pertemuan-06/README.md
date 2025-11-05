@@ -8,5 +8,6 @@ belajar sebagai berikut:
 <ol>
 <li>skrip php hello world</li>
 <li>copy index.html, style.css pertemuan-05 ke 06</li>
-<li>menambahkan section about menggunakan echo </li>
+<li>menambahkan section about menggunakan echo</li>
+<li>menambahkan section ipk</li>
 </ol>
