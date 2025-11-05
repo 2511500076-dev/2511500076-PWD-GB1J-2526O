@@ -11,4 +11,6 @@ belajar sebagai berikut:
 <li>menambahkan section about menggunakan echo</li>
 <li>menambahkan section ipk</li>
 <li>menambahkan label pada section ipk</li>
+<li>menambahkan nilai pada section ipk</li>
+<li>menambahkan style.css ipk p ipk h2 ipk</li>
 </ol>
