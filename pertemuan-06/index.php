@@ -361,7 +361,136 @@
             echo $status3
             ?>
         </p>
-    
+         <p>
+                <label>Nama Matakuliah ke-4:</label>
+                <?php 
+            echo $namaMatkul4
+            ?>
+            </p>
+            <p>
+                <label>SKS:</label>
+            <?php 
+            echo $sksMatkul4
+            ?>
+        </p>
+            <P>
+                <label>Kehadiran:</label>
+                <?php 
+                echo $nilaiHadir4
+                ?>
+            </P>
+            <p>
+                <label>Tugas:</label>
+                <?php 
+                echo $nilaiTugas4
+                ?>
+            </p>
+            <p><label>UTS:</label>
+            <?php
+            echo $nilaiUTS4
+             ?>
+        </p>
+            <p>
+                <label>UAS:</label>
+            <?php 
+            echo $nilaiUAS4
+            ?>
+        </p>
+            <p>
+                <label>Nilai Akhir:</label>
+                <?php 
+                echo $nilaiAkhir4
+                ?>
+        </p>
+            <p>
+                <label>Grade:</label>
+            <?php 
+            echo $grade4
+            ?>
+        </p>
+            <p>
+                <label>Angka Mutu:</label>
+            <?php 
+            echo $mutu4
+            ?>
+        </p>
+            <p>
+                <label>Bobot:</label>
+            <?php 
+            echo $bobot4
+            ?>
+        </p>
+            <p>
+                <label>Status:</label>
+            <?php 
+            echo $status4
+            ?>
+        </p>
+         <p>
+                <label>Nama Matakuliah ke-5:</label>
+                <?php 
+            echo $namaMatkul5
+            ?>
+            </p>
+            <p>
+                <label>SKS:</label>
+            <?php 
+            echo $sksMatkul5
+            ?>
+        </p>
+            <P>
+                <label>Kehadiran:</label>
+                <?php 
+                echo $nilaiHadir5
+                ?>
+            </P>
+            <p>
+                <label>Tugas:</label>
+                <?php 
+                echo $nilaiTugas5
+                ?>
+            </p>
+            <p><label>UTS:</label>
+            <?php
+            echo $nilaiUTS5
+             ?>
+        </p>
+            <p>
+                <label>UAS:</label>
+            <?php 
+            echo $nilaiUAS5
+            ?>
+        </p>
+            <p>
+                <label>Nilai Akhir:</label>
+                <?php 
+                echo $nilaiAkhir5
+                ?>
+        </p>
+            <p>
+                <label>Grade:</label>
+            <?php 
+            echo $grade5
+            ?>
+        </p>
+            <p>
+                <label>Angka Mutu:</label>
+            <?php 
+            echo $mutu5
+            ?>
+        </p>
+            <p>
+                <label>Bobot:</label>
+            <?php 
+            echo $bobot5
+            ?>
+        </p>
+            <p>
+                <label>Status:</label>
+            <?php 
+            echo $status5
+            ?>
+        </p>
             
 
         </section>
