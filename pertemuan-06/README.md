@@ -10,4 +10,5 @@ belajar sebagai berikut:
 <li>copy index.html, style.css pertemuan-05 ke 06</li>
 <li>menambahkan section about menggunakan echo</li>
 <li>menambahkan section ipk</li>
+<li>menambahkan label pada section ipk</li>
 </ol>
