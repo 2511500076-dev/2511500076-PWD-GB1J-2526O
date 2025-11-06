@@ -13,5 +13,6 @@ belajar sebagai berikut:
 <li>menambahkan data matkul</li>
 <li>menghitung nilai akhir</li>
 <li>menghitung nilai grade menggunakan operator percabangan</li>
+<li>menghitung 5 matakuliah</li>
 
 </ol>

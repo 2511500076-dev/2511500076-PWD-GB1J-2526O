@@ -177,8 +177,7 @@
                 default: return 0.00;
             }
         }
-
-        $totalBobot = 0;
+ $totalBobot = 0;
         $totalSKS = 0;
 
         for ($i = 1; $i <= 5; $i++) {
@@ -196,9 +195,8 @@
             $status = ($grade == "D" || $grade == "E") ? "Gagal" : "Lulus";
 
             $totalBobot += $bobot;
-            $totalSKS += $sks;
-
-            echo "<p><label><span>Nama Mata Kuliah ke-$i:</span></label>$nama</p>";
+            $totalSKS += $sks; 
+             echo "<p><label><span>Nama Mata Kuliah ke-$i:</span></label>$nama</p>";
             echo "<p><label><span>SKS:</span></label>$sks</p>";
             echo "<p><label><span>Kehadiran:</span></label>$hadir</p>";
             echo "<p><label><span>Tugas:</span></label>$tugas</p>";
@@ -210,13 +208,7 @@
             echo "<p><label><span>Bobot:</span></label>" . number_format($bobot, 2) . "</p>";
             echo "<p><label><span>Status:</span></label>$status</p><hr>";
         }
-
-        $ipk = $totalBobot / $totalSKS;
-
-        echo "<p><label><span>Total SKS:</span></label>$totalSKS</p>";
-        echo "<p><label><span>Total Bobot:</span></label>" . number_format($totalBobot, 2) . "</p>";
-        echo "<p><label><span>IPK:</span></label>" . number_format($ipk, 2) . "</p>";
-        ?>
+       ?>
         
         </section>
         <section id="contact">
