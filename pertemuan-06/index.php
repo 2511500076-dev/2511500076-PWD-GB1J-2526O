@@ -524,6 +524,22 @@ $grade3 = tentukanGrade($nilaiAkhir3, $nilaiHadir3);
 $grade4 = tentukanGrade($nilaiAkhir4, $nilaiHadir4);
 $grade5 = tentukanGrade($nilaiAkhir5, $nilaiHadir5);
 
+function konversiMutu($grade) {
+  if ($grade == "A") return 4.00;
+  elseif ($grade == "B+") return 3.50;
+  elseif ($grade == "B") return 3.00;
+  elseif ($grade == "C+") return 2.50;
+  elseif ($grade == "C") return 2.00;
+  elseif ($grade == "D") return 1.00;
+  else return 0.00;
+}
+
+$mutu1 = konversiMutu($grade1);
+$mutu2 = konversiMutu($grade2);
+$mutu3 = konversiMutu($grade3);
+$mutu4 = konversiMutu($grade4);
+$mutu5 = konversiMutu($grade5);
+
         ?>
             
 

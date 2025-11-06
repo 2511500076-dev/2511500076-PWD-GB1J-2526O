@@ -15,4 +15,5 @@ belajar sebagai berikut:
 <li>menambahkan style.css ipk p ipk h2 ipk</li>
 <li>menghitung nilai akhir</li>
 <li>menentukan grade menggunakan operator perbandingan</li>
+<li>Konversi grade angka mutu</li>
 </ol>
