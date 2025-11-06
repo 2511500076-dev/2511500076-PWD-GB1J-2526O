@@ -14,5 +14,6 @@ belajar sebagai berikut:
 <li>menghitung nilai akhir</li>
 <li>menghitung nilai grade menggunakan operator percabangan</li>
 <li>menghitung 5 matakuliah</li>
+<li>menampilkan total sks dan bobot</li>
 
 </ol>

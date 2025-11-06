@@ -208,6 +208,12 @@
             echo "<p><label><span>Bobot:</span></label>" . number_format($bobot, 2) . "</p>";
             echo "<p><label><span>Status:</span></label>$status</p><hr>";
         }
+
+        $ipk = $totalBobot / $totalSKS;
+
+        echo "<p><label><span>Total SKS:</span></label>$totalSKS</p>";
+        echo "<p><label><span>Total Bobot:</span></label>" . number_format($totalBobot, 2) . "</p>";
+        echo "<p><label><span>IPK:</span></label>" . number_format($ipk, 2) . "</p>";
        ?>
         
         </section>
