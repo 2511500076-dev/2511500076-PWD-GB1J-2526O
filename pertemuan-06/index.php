@@ -498,6 +498,32 @@ $nilaiAkhir3 = (0.1 * $nilaiHadir3) + (0.2 * $nilaiTugas3) + (0.3 * $nilaiUTS3) 
 $nilaiAkhir4 = (0.1 * $nilaiHadir4) + (0.2 * $nilaiTugas4) + (0.3 * $nilaiUTS4) + (0.4 * $nilaiUAS4);
 $nilaiAkhir5 = (0.1 * $nilaiHadir5) + (0.2 * $nilaiTugas5) + (0.3 * $nilaiUTS5) + (0.4 * $nilaiUAS5);
 
+function tentukanGrade($nilaiAkhir, $kehadiran) {
+  if ($kehadiran < 70) {
+    return "E";
+  } elseif ($nilaiAkhir >= 85) {
+    return "A";
+  } elseif ($nilaiAkhir >= 80) {
+    return "B+";
+  } elseif ($nilaiAkhir >= 70) {
+    return "B";
+  } elseif ($nilaiAkhir >= 60) {
+    return "C+";
+  } elseif ($nilaiAkhir >= 55) {
+    return "C";
+  } elseif ($nilaiAkhir >= 40) {
+    return "D";
+  } else {
+    return "E";
+  }
+}
+
+$grade1 = tentukanGrade($nilaiAkhir1, $nilaiHadir1);
+$grade2 = tentukanGrade($nilaiAkhir2, $nilaiHadir2);
+$grade3 = tentukanGrade($nilaiAkhir3, $nilaiHadir3);
+$grade4 = tentukanGrade($nilaiAkhir4, $nilaiHadir4);
+$grade5 = tentukanGrade($nilaiAkhir5, $nilaiHadir5);
+
         ?>
             
 
