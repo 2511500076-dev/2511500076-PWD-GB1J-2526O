@@ -13,4 +13,5 @@ belajar sebagai berikut:
 <li>menambahkan label pada section ipk</li>
 <li>menambahkan nilai pada section ipk</li>
 <li>menambahkan style.css ipk p ipk h2 ipk</li>
+<li>menghitung nilai akhir</li>
 </ol>
