@@ -11,5 +11,6 @@ belajar sebagai berikut:
 <li>menambahkan section about menggunakan echo</li>
 <li>menambahkan section ipk</li>
 <li>menambahkan data matkul</li>
+<li>menghitung nilai akhir</li>
 
 </ol>
