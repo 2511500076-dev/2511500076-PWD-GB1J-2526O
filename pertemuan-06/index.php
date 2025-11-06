@@ -107,6 +107,7 @@
 
         </section>
         <section id="ipk">
+            <h2>Nilai Saya</h2>
             <?php
         $namaMatkul1 = "Algoritma dan Struktur Data";
         $sksMatkul1 = 4;

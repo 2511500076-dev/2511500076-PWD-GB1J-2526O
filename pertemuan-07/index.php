@@ -1,3 +1,11 @@
+<?php
+session_start();
+$sesnama = $_SESSION["sesnama"];
+$sesemail = $_SESSION["sesemail"];
+$sespesan = $_SESSION["sespesan"];
+echo $sesnama . $sesemail . $sespesan;
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
