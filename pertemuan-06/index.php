@@ -540,6 +540,18 @@ $mutu3 = konversiMutu($grade3);
 $mutu4 = konversiMutu($grade4);
 $mutu5 = konversiMutu($grade5);
 
+$bobot1 = $mutu1 * $sksMatkul1;
+$bobot2 = $mutu2 * $sksMatkul2;
+$bobot3 = $mutu3 * $sksMatkul3;
+$bobot4 = $mutu4 * $sksMatkul4;
+$bobot5 = $mutu5 * $sksMatkul5;
+
+$status1 = ($grade1 == "D" || $grade1 == "E") ? "Gagal" : "Lulus";
+$status2 = ($grade2 == "D" || $grade2 == "E") ? "Gagal" : "Lulus";
+$status3 = ($grade3 == "D" || $grade3 == "E") ? "Gagal" : "Lulus";
+$status4 = ($grade4 == "D" || $grade4 == "E") ? "Gagal" : "Lulus";
+$status5 = ($grade5 == "D" || $grade5 == "E") ? "Gagal" : "Lulus";
+
         ?>
             
 
