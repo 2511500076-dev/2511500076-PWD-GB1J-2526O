@@ -15,5 +15,5 @@ belajar sebagai berikut:
 <li>menghitung nilai grade menggunakan operator percabangan</li>
 <li>menghitung 5 matakuliah</li>
 <li>menampilkan total sks dan bobot</li>
-
-</ol>
+<li>menambahkan style.css di section ipk</li>
+/ol>
