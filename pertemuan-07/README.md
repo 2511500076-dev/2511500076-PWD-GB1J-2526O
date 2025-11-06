@@ -10,4 +10,5 @@ belajar sebagai berikut:
 <li>method dan proses.php</li>
 <li>buat file proses.php</li>
 <li>ambil nilai input dari from ke proses.php</li>
+<li>menyimpan nilai dari variabel</li>
 </ol>
