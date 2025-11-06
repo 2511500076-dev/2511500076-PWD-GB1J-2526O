@@ -108,453 +108,116 @@
         </section>
         <section id="ipk">
             <?php
-             $namaMatkul1 = "Algoritma dan Struktur Data";
-             $sksMatkul1 = "4";
-             $nilaiHadir1 = "90";
-             $nilaiTugas1 = "60";
-             $nilaiUTS1 = "80";
-             $nilaiUAS1 = "70";
-             $nilaiAkhir1 = "73"; 
-             $grade1 = "B";
-             $mutu1 = "3.00";
-             $bobot1 = "12";
-             $status1 = "Lulus";
-             $namaMatkul2 = "Agama";
-             $sksMatkul2 = "2";
-             $nilaiHadir2 = "70";
-             $nilaiTugas2 = "50";
-             $nilaiUTS2 = "60";
-             $nilaiUAS2 = "80";
-             $nilaiAkhir2 = "67"; 
-             $grade2 = "B-";
-             $mutu2 = "2.70";
-             $bobot2 = "5.40";
-             $status2 = "Lulus";
-             $namaMatkul3 = "Matematika";
-             $sksMatkul3 = "4";
-             $nilaiHadir3 = "80";
-             $nilaiTugas3 = "70";
-             $nilaiUTS3 = "75";
-             $nilaiUAS3 = "80";
-             $nilaiAkhir3 = "76.50"; 
-             $grade3 = "B+";
-             $mutu3 = "3.30";
-             $bobot3 = "13.20";
-             $status3 = "Lulus";
-             $namaMatkul4 = "Fisika";
-             $sksMatkul4 = "7";
-             $nilaiHadir4 = "85";
-             $nilaiTugas4 = "75";
-             $nilaiUTS4 = "80";
-             $nilaiUAS4 = "85";
-             $nilaiAkhir4 = "81.50"; 
-             $grade4 = "A-";
-             $mutu4 = "3.70";
-             $bobot4 = "25.90";
-             $status4 = "Lulus";
-             $namaMatkul5 = "Pemrograman Web Dasar";
-             $sksMatkul5 = "3";
-             $nilaiHadir5 = "69";
-             $nilaiTugas5 = "80";
-             $nilaiUTS5 = "90";
-             $nilaiUAS5 = "100";
-             $nilaiAkhir5 = "89.90"; 
-             $grade5 = "E";
-             $mutu5 = "0.00";
-             $bobot5 = "0.00";
-             $status5 = "Gagal";
+        $namaMatkul1 = "Algoritma dan Struktur Data";
+        $sksMatkul1 = 4;
+        $nilaiHadir1 = 90;
+        $nilaiTugas1 = 60;
+        $nilaiUTS1 = 80;
+        $nilaiUAS1 = 70;
 
-            ?>
-            <h2>Nilai Saya</h2>
-            <p>
-                <label>Nama Matakuliah ke-1:</label>
-                <?php 
-            echo $namaMatkul1
-            ?>
-            </p>
-            <p>
-                <label>SKS:</label>
-            <?php 
-            echo $sksMatkul1
-            ?>
-        </p>
-            <P>
-                <label>Kehadiran:</label>
-                <?php 
-                echo $nilaiHadir1
-                ?>
-            </P>
-            <p>
-                <label>Tugas:</label>
-                <?php 
-                echo $nilaiTugas1
-                ?>
-            </p>
-            <p><label>UTS:</label>
-            <?php
-            echo $nilaiUTS1
-             ?>
-        </p>
-            <p>
-                <label>UAS:</label>
-            <?php 
-            echo $nilaiUAS1
-            ?>
-        </p>
-            <p>
-                <label>Nilai Akhir:</label>
-                <?php 
-                echo $nilaiAkhir1
-                ?>
-        </p>
-            <p>
-                <label>Grade:</label>
-            <?php 
-            echo $grade1
-            ?>
-        </p>
-            <p>
-                <label>Angka Mutu:</label>
-            <?php 
-            echo $mutu1
-            ?>
-        </p>
-            <p>
-                <label>Bobot:</label>
-            <?php 
-            echo $bobot1
-            ?>
-        </p>
-            <p>
-                <label>Status:</label>
-            <?php 
-            echo $status1
-            ?>
-        </p>
-        <p>
-                <label>Nama Matakuliah ke-2:</label>
-                <?php 
-            echo $namaMatkul2
-            ?>
-            </p>
-            <p>
-                <label>SKS:</label>
-            <?php 
-            echo $sksMatkul2
-            ?>
-        </p>
-            <P>
-                <label>Kehadiran:</label>
-                <?php 
-                echo $nilaiHadir2
-                ?>
-            </P>
-            <p>
-                <label>Tugas:</label>
-                <?php 
-                echo $nilaiTugas2
-                ?>
-            </p>
-            <p><label>UTS:</label>
-            <?php
-            echo $nilaiUTS2
-             ?>
-        </p>
-            <p>
-                <label>UAS:</label>
-            <?php 
-            echo $nilaiUAS2
-            ?>
-        </p>
-            <p>
-                <label>Nilai Akhir:</label>
-                <?php 
-                echo $nilaiAkhir2
-                ?>
-        </p>
-            <p>
-                <label>Grade:</label>
-            <?php 
-            echo $grade2
-            ?>
-        </p>
-            <p>
-                <label>Angka Mutu:</label>
-            <?php 
-            echo $mutu2
-            ?>
-        </p>
-            <p>
-                <label>Bobot:</label>
-            <?php 
-            echo $bobot2
-            ?>
-        </p>
-            <p>
-                <label>Status:</label>
-            <?php 
-            echo $status2
-            ?>
-        </p>
-        <p>
-                <label>Nama Matakuliah ke-3:</label>
-                <?php 
-            echo $namaMatkul3
-            ?>
-            </p>
-            <p>
-                <label>SKS:</label>
-            <?php 
-            echo $sksMatkul3
-            ?>
-        </p>
-            <P>
-                <label>Kehadiran:</label>
-                <?php 
-                echo $nilaiHadir3
-                ?>
-            </P>
-            <p>
-                <label>Tugas:</label>
-                <?php 
-                echo $nilaiTugas3
-                ?>
-            </p>
-            <p><label>UTS:</label>
-            <?php
-            echo $nilaiUTS3
-             ?>
-        </p>
-            <p>
-                <label>UAS:</label>
-            <?php 
-            echo $nilaiUAS3
-            ?>
-        </p>
-            <p>
-                <label>Nilai Akhir:</label>
-                <?php 
-                echo $nilaiAkhir3
-                ?>
-        </p>
-            <p>
-                <label>Grade:</label>
-            <?php 
-            echo $grade3
-            ?>
-        </p>
-            <p>
-                <label>Angka Mutu:</label>
-            <?php 
-            echo $mutu3
-            ?>
-        </p>
-            <p>
-                <label>Bobot:</label>
-            <?php 
-            echo $bobot3
-            ?>
-        </p>
-            <p>
-                <label>Status:</label>
-            <?php 
-            echo $status3
-            ?>
-        </p>
-         <p>
-                <label>Nama Matakuliah ke-4:</label>
-                <?php 
-            echo $namaMatkul4
-            ?>
-            </p>
-            <p>
-                <label>SKS:</label>
-            <?php 
-            echo $sksMatkul4
-            ?>
-        </p>
-            <P>
-                <label>Kehadiran:</label>
-                <?php 
-                echo $nilaiHadir4
-                ?>
-            </P>
-            <p>
-                <label>Tugas:</label>
-                <?php 
-                echo $nilaiTugas4
-                ?>
-            </p>
-            <p><label>UTS:</label>
-            <?php
-            echo $nilaiUTS4
-             ?>
-        </p>
-            <p>
-                <label>UAS:</label>
-            <?php 
-            echo $nilaiUAS4
-            ?>
-        </p>
-            <p>
-                <label>Nilai Akhir:</label>
-                <?php 
-                echo $nilaiAkhir4
-                ?>
-        </p>
-            <p>
-                <label>Grade:</label>
-            <?php 
-            echo $grade4
-            ?>
-        </p>
-            <p>
-                <label>Angka Mutu:</label>
-            <?php 
-            echo $mutu4
-            ?>
-        </p>
-            <p>
-                <label>Bobot:</label>
-            <?php 
-            echo $bobot4
-            ?>
-        </p>
-            <p>
-                <label>Status:</label>
-            <?php 
-            echo $status4
-            ?>
-        </p>
-         <p>
-                <label>Nama Matakuliah ke-5:</label>
-                <?php 
-            echo $namaMatkul5
-            ?>
-            </p>
-            <p>
-                <label>SKS:</label>
-            <?php 
-            echo $sksMatkul5
-            ?>
-        </p>
-            <P>
-                <label>Kehadiran:</label>
-                <?php 
-                echo $nilaiHadir5
-                ?>
-            </P>
-            <p>
-                <label>Tugas:</label>
-                <?php 
-                echo $nilaiTugas5
-                ?>
-            </p>
-            <p><label>UTS:</label>
-            <?php
-            echo $nilaiUTS5
-             ?>
-        </p>
-            <p>
-                <label>UAS:</label>
-            <?php 
-            echo $nilaiUAS5
-            ?>
-        </p>
-            <p>
-                <label>Nilai Akhir:</label>
-                <?php 
-                echo $nilaiAkhir5
-                ?>
-        </p>
-            <p>
-                <label>Grade:</label>
-            <?php 
-            echo $grade5
-            ?>
-        </p>
-            <p>
-                <label>Angka Mutu:</label>
-            <?php 
-            echo $mutu5
-            ?>
-        </p>
-            <p>
-                <label>Bobot:</label>
-            <?php 
-            echo $bobot5
-            ?>
-        </p>
-            <p>
-                <label>Status:</label>
-            <?php 
-            echo $status5
-            ?>
-        </p>
-        <?php
-        $nilaiAkhir1 = (0.1 * $nilaiHadir1) + (0.2 * $nilaiTugas1) + (0.3 * $nilaiUTS1) + (0.4 * $nilaiUAS1);
-$nilaiAkhir2 = (0.1 * $nilaiHadir2) + (0.2 * $nilaiTugas2) + (0.3 * $nilaiUTS2) + (0.4 * $nilaiUAS2);
-$nilaiAkhir3 = (0.1 * $nilaiHadir3) + (0.2 * $nilaiTugas3) + (0.3 * $nilaiUTS3) + (0.4 * $nilaiUAS3);
-$nilaiAkhir4 = (0.1 * $nilaiHadir4) + (0.2 * $nilaiTugas4) + (0.3 * $nilaiUTS4) + (0.4 * $nilaiUAS4);
-$nilaiAkhir5 = (0.1 * $nilaiHadir5) + (0.2 * $nilaiTugas5) + (0.3 * $nilaiUTS5) + (0.4 * $nilaiUAS5);
+        $namaMatkul2 = "Agama";
+        $sksMatkul2 = 3;
+        $nilaiHadir2 = 85;
+        $nilaiTugas2 = 75;
+        $nilaiUTS2 = 70;
+        $nilaiUAS2 = 80;
 
-function tentukanGrade($nilaiAkhir, $kehadiran) {
-  if ($kehadiran < 70) {
-    return "E";
-  } elseif ($nilaiAkhir >= 85) {
-    return "A";
-  } elseif ($nilaiAkhir >= 80) {
-    return "B+";
-  } elseif ($nilaiAkhir >= 70) {
-    return "B";
-  } elseif ($nilaiAkhir >= 60) {
-    return "C+";
-  } elseif ($nilaiAkhir >= 55) {
-    return "C";
-  } elseif ($nilaiAkhir >= 40) {
-    return "D";
-  } else {
-    return "E";
-  }
-}
+        $namaMatkul3 = "Matematika";
+        $sksMatkul3 = 3;
+        $nilaiHadir3 = 100;
+        $nilaiTugas3 = 90;
+        $nilaiUTS3 = 95;
+        $nilaiUAS3 = 85;
 
-$grade1 = tentukanGrade($nilaiAkhir1, $nilaiHadir1);
-$grade2 = tentukanGrade($nilaiAkhir2, $nilaiHadir2);
-$grade3 = tentukanGrade($nilaiAkhir3, $nilaiHadir3);
-$grade4 = tentukanGrade($nilaiAkhir4, $nilaiHadir4);
-$grade5 = tentukanGrade($nilaiAkhir5, $nilaiHadir5);
+        $namaMatkul4 = "Fisika";
+        $sksMatkul4 = 7;
+        $nilaiHadir4 = 85;
+        $nilaiTugas4 = 75;
+        $nilaiUTS4 = 80;
+        $nilaiUAS4 = 85;
 
-function konversiMutu($grade) {
-  if ($grade == "A") return 4.00;
-  elseif ($grade == "B+") return 3.50;
-  elseif ($grade == "B") return 3.00;
-  elseif ($grade == "C+") return 2.50;
-  elseif ($grade == "C") return 2.00;
-  elseif ($grade == "D") return 1.00;
-  else return 0.00;
-}
+        $namaMatkul5 = "Pemrograman Web Dasar";
+        $sksMatkul5 = 3;
+        $nilaiHadir5 = 69;
+        $nilaiTugas5 = 80;
+        $nilaiUTS5 = 90;
+        $nilaiUAS5 = 100;
 
-$mutu1 = konversiMutu($grade1);
-$mutu2 = konversiMutu($grade2);
-$mutu3 = konversiMutu($grade3);
-$mutu4 = konversiMutu($grade4);
-$mutu5 = konversiMutu($grade5);
+        function hitungNilaiAkhir($hadir, $tugas, $uts, $uas) {
+            return (0.1 * $hadir) + (0.2 * $tugas) + (0.3 * $uts) + (0.4 * $uas);
+        }
 
-$bobot1 = $mutu1 * $sksMatkul1;
-$bobot2 = $mutu2 * $sksMatkul2;
-$bobot3 = $mutu3 * $sksMatkul3;
-$bobot4 = $mutu4 * $sksMatkul4;
-$bobot5 = $mutu5 * $sksMatkul5;
+        function hitungGrade($nilaiAkhir, $hadir) {
+            if ($hadir < 70) return "E";
+            elseif ($nilaiAkhir >= 91) return "A";
+            elseif ($nilaiAkhir >= 81) return "A-";
+            elseif ($nilaiAkhir >= 76) return "B+";
+            elseif ($nilaiAkhir >= 71) return "B";
+            elseif ($nilaiAkhir >= 66) return "B-";
+            elseif ($nilaiAkhir >= 61) return "C+";
+            elseif ($nilaiAkhir >= 56) return "C";
+            elseif ($nilaiAkhir >= 51) return "C-";
+            elseif ($nilaiAkhir >= 36) return "D";
+            elseif ($nilaiAkhir >= 0) return "E";
+            else return "E";
+        }
 
-$status1 = ($grade1 == "D" || $grade1 == "E") ? "Gagal" : "Lulus";
-$status2 = ($grade2 == "D" || $grade2 == "E") ? "Gagal" : "Lulus";
-$status3 = ($grade3 == "D" || $grade3 == "E") ? "Gagal" : "Lulus";
-$status4 = ($grade4 == "D" || $grade4 == "E") ? "Gagal" : "Lulus";
-$status5 = ($grade5 == "D" || $grade5 == "E") ? "Gagal" : "Lulus";
+        function konversiMutu($grade) {
+            switch ($grade) {
+                case "A": return 4.00;
+                case "A-": return 3.70;
+                case "B+": return 3.30;
+                case "B": return 3.00;
+                case "B-": return 2.70;
+                case "C+": return 2.30;
+                case "C": return 2.00;
+                case "C-": return 1.70;
+                case "D": return 1.00;
+                case "E": return 0.00;
+                default: return 0.00;
+            }
+        }
 
+        $totalBobot = 0;
+        $totalSKS = 0;
+
+        for ($i = 1; $i <= 5; $i++) {
+            $hadir = ${"nilaiHadir$i"};
+            $tugas = ${"nilaiTugas$i"};
+            $uts   = ${"nilaiUTS$i"};
+            $uas   = ${"nilaiUAS$i"};
+            $sks   = ${"sksMatkul$i"};
+            $nama  = ${"namaMatkul$i"};
+
+            $nilaiAkhir = hitungNilaiAkhir($hadir, $tugas, $uts, $uas);
+            $grade = hitungGrade($nilaiAkhir, $hadir);
+            $mutu = konversiMutu($grade);
+            $bobot = $mutu * $sks;
+            $status = ($grade == "D" || $grade == "E") ? "Gagal" : "Lulus";
+
+            $totalBobot += $bobot;
+            $totalSKS += $sks;
+
+            echo "<p><label><span>Nama Mata Kuliah ke-$i:</span></label>$nama</p>";
+            echo "<p><label><span>SKS:</span></label>$sks</p>";
+            echo "<p><label><span>Kehadiran:</span></label>$hadir</p>";
+            echo "<p><label><span>Tugas:</span></label>$tugas</p>";
+            echo "<p><label><span>UTS:</span></label>$uts</p>";
+            echo "<p><label><span>UAS:</span></label>$uas</p>";
+            echo "<p><label><span>Nilai Akhir:</span></label>" . number_format($nilaiAkhir, 2) . "</p>";
+            echo "<p><label><span>Grade:</span></label>$grade</p>";
+            echo "<p><label><span>Angka Mutu:</span></label>" . number_format($mutu, 2) . "</p>";
+            echo "<p><label><span>Bobot:</span></label>" . number_format($bobot, 2) . "</p>";
+            echo "<p><label><span>Status:</span></label>$status</p><hr>";
+        }
+
+        $ipk = $totalBobot / $totalSKS;
+
+        echo "<p><label><span>Total SKS:</span></label>$totalSKS</p>";
+        echo "<p><label><span>Total Bobot:</span></label>" . number_format($totalBobot, 2) . "</p>";
+        echo "<p><label><span>IPK:</span></label>" . number_format($ipk, 2) . "</p>";
         ?>
-            
-
+        
         </section>
         <section id="contact">
             <h2>Kontak kami</h2>
