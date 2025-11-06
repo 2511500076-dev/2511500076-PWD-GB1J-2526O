@@ -9,4 +9,5 @@ belajar sebagai berikut:
 <li>downlaod rar dan extract rar ke file pwd</li>
 <li>method dan proses.php</li>
 <li>buat file proses.php</li>
+<li>ambil nilai input dari from ke proses.php</li>
 </ol>
