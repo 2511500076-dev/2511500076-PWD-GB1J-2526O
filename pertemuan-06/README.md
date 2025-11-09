@@ -16,4 +16,5 @@ belajar sebagai berikut:
 <li>menghitung 5 matakuliah</li>
 <li>menampilkan total sks dan bobot</li>
 <li>menambahkan style.css di section ipk</li>
+<li>mengganti config</li>
 /ol>
