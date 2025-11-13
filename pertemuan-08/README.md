@@ -11,4 +11,5 @@ Proses saya mengerjakan UTS ini sebagai berikut:<br>
   <li>menambahkan section Biodata Sederhana Mahasiswa</li>
   <li>mendownload dan extract file uts di elearning ke folder pertemuan-08</li>
   <li>menambahkan form di section biodata sederhana mahasiswa seperti di section contact</li>
+  <li>menambahkan style.css kedalam biodata ,biodata label, biodata h2, biodata labael>span dan biodata button </li>
 </ol>

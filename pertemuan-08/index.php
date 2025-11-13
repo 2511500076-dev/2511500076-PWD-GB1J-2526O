@@ -52,7 +52,7 @@ endif;
       <p>Ini contoh paragraf HTML.</p>
     </section>
 
-    <section id="Biodata Sederhana Mahasiswa"> 
+    <section id="biodata"> 
       <h2>Biodata Sederhana Mahasiswa</h2>
       <form action="proses.php" method="POST">
 
@@ -103,6 +103,9 @@ endif;
         <label for="txtNama_adik"><span>Nama Adik:</span>
           <input type="text" id="txtNama_adik" name="txtNama_adik" placeholder="Masukkan Nama Adik Anda" required autocomplete="namaadik">
         </label>
+
+        <button type="submit">Kirim</button>
+        <button type="reset">Batal</button>
         </form>
     </section>
 
