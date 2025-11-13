@@ -13,4 +13,5 @@ Proses saya mengerjakan UTS ini sebagai berikut:<br>
   <li>menambahkan form di section biodata sederhana mahasiswa seperti di section contact</li>
   <li>menambahkan style.css kedalam biodata ,biodata label, biodata h2, biodata labael>span dan biodata button</li>
   <li>menambahkan seesion di file proses.php</li>
+  <li>menampilkan nim nama dll ke section about</li>
 </ol>
