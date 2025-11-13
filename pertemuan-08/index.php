@@ -36,17 +36,17 @@ if (isset($_SESSION["sesPekerjaan"])):
   $sesnama = $_SESSION["sesPekerjaan"];
 endif;
 
-$sesnamaortu = "";
+$sesnama_ortu = "";
 if (isset($_SESSION["sesNama_ortu"])):
   $sesnama = $_SESSION["sesNama_ortu"];
 endif;
 
-$sesnamakakak = "";
+$sesnama_kakak = "";
 if (isset($_SESSION["sesNama_kakak"])):
   $sesnama = $_SESSION["sesNama_kakak"];
 endif;
 
-$sesnamaadik = "";
+$sesnama_adik = "";
 if (isset($_SESSION["sesNama_adik"])):
   $sesnama = $_SESSION["sesNama_adik"];
 endif;
@@ -135,6 +135,37 @@ endif;
         <button type="submit">Kirim</button>
         <button type="reset">Batal</button>
         </form>
+        <h2>Tentang saya</h2>
+      <p>
+        NIM : <strong><?php echo $sesnim ?></strong>
+      </p>
+      <p>
+        Nama : <strong><?php echo $sesnama ?></strong>
+      </p>
+      <p>
+        Tempat lahir : <strong><?php echo $sestempat_lahir ?></strong>
+      </p>
+      <p>
+        Tanggal lahir : <strong><?php echo $sestanggal_lahir ?></strong>
+      </p>
+      <p>
+        Hobi : <strong><?php echo $seshobi ?></strong>
+      </p>
+      <p>
+        Pasangan : <strong><?php echo $sespasangan ?></strong>
+      </p>
+      <p>
+        Pekerjaan : <strong><?php echo $sespekerjaan ?></strong>
+      </p>
+      <p>
+        Nama Orang Tua : <strong><?php echo $sesnama_ortu ?></strong>
+      </p>
+      <p>
+        Nama Kakak : <strong><?php echo $sesnama_kakak ?></strong>
+      </p>
+      <p>
+        Nama Adik : <strong><?php echo $sesnama_adik ?></strong>
+      </p>
     </section>
 
     <section id="about">
