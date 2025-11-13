@@ -135,37 +135,6 @@ endif;
         <button type="submit">Kirim</button>
         <button type="reset">Batal</button>
         </form>
-        <h2>Tentang saya</h2>
-      <p>
-        NIM : <strong><?php echo $sesnim ?></strong>
-      </p>
-      <p>
-        Nama : <strong><?php echo $sesnama ?></strong>
-      </p>
-      <p>
-        Tempat lahir : <strong><?php echo $sestempat_lahir ?></strong>
-      </p>
-      <p>
-        Tanggal lahir : <strong><?php echo $sestanggal_lahir ?></strong>
-      </p>
-      <p>
-        Hobi : <strong><?php echo $seshobi ?></strong>
-      </p>
-      <p>
-        Pasangan : <strong><?php echo $sespasangan ?></strong>
-      </p>
-      <p>
-        Pekerjaan : <strong><?php echo $sespekerjaan ?></strong>
-      </p>
-      <p>
-        Nama Orang Tua : <strong><?php echo $sesnama_ortu ?></strong>
-      </p>
-      <p>
-        Nama Kakak : <strong><?php echo $sesnama_kakak ?></strong>
-      </p>
-      <p>
-        Nama Adik : <strong><?php echo $sesnama_adik ?></strong>
-      </p>
     </section>
 
     <section id="about">
@@ -179,22 +148,22 @@ endif;
       <h2>Tentang Saya</h2>
       <p><strong>NIM:</strong>
         <?php
-        echo $NIM;
+         $sesnim;
         ?>
       </p>
       <p><strong>Nama Lengkap:</strong>
         <?php
-        echo $Nama;
+        echo $sesnama;
         ?> &#128526;
       </p>
-      <p><strong>Tempat Lahir:</strong> <?php echo $tempat; ?></p>
-      <p><strong>Tanggal Lahir:</strong> 1 Januari 2000</p>
-      <p><strong>Hobi:</strong> Memasak, coding, dan bermain musik &#127926;</p>
-      <p><strong>Pasangan:</strong> Belum ada &hearts;</p>
-      <p><strong>Pekerjaan:</strong> Dosen di ISB Atma Luhur &copy; 2025</p>
-      <p><strong>Nama Orang Tua:</strong> Bapak Setiawan dan Ibu Maria</p>
-      <p><strong>Nama Kakak:</strong> Antonius Setiawan</p>
-      <p><strong>Nama Adik:</strong> <?php echo $sespesan ?></p>
+      <p><strong>Tempat Lahir:</strong> <?php  $sestempat_lahir ?></p>
+      <p><strong>Tanggal Lahir:</strong> <?php $sestanggal_lahir ?></p>
+      <p><strong>Hobi:</strong> <?php $seshobi ?> </p>
+      <p><strong>Pasangan:</strong> <?php $sespasangan ?> </p>
+      <p><strong>Pekerjaan:</strong> <?php $sespekerjaan ?> </p>
+      <p><strong>Nama Orang Tua:</strong><?php $sesnama_ortu ?> </p>
+      <p><strong>Nama Kakak:</strong> <?php $sesnama_kakak ?></p>
+      <p><strong>Nama Adik:</strong> <?php $sesnama_adik ?></p>
     </section>
 
     <section id="contact">
