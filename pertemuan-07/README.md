@@ -11,4 +11,5 @@ belajar sebagai berikut:
 <li>buat file proses.php</li>
 <li>ambil nilai input dari from ke proses.php</li>
 <li>menyimpan nilai dari variabel</li>
+<li></li>
 </ol>
