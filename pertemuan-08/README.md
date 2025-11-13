@@ -9,4 +9,5 @@ Kelompok: GB1J<br>
 Proses saya mengerjakan UTS ini sebagai berikut:<br>
 <ol>
   <li>menambahkan section Biodata Sederhana Mahasiswa</li>
+  <li>mendownload dan extract file uts di elearning ke folder pertemuan-08</li>
 </ol>
