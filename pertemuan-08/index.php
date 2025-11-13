@@ -80,17 +80,10 @@ endif;
           <input type="text" id="txtPasangan" name="txtPasangan" placeholder="Masukkan Nama Pasangan Anda" required autocomplete="pasangan">
         </label>
 
-        <label for="txtPasangan"><span>Pasangan:</span>
-          <input type="text" id="txtPasangan" name="txtPasangan" placeholder="Masukkan Nama Pasangan Anda" required autocomplete="pasangan">
-        </label>
-
         <label for="txtPekerjaan"><span>Pekerjaan:</span>
           <input type="text" id="txtPekerjaan" name="txtPekerjaan" placeholder="Masukkan Pekerjaan Anda" required autocomplete="pekerjaan">
         </label>
 
-        <label for="txtPekerjaan"><span>Pekerjaan:</span>
-          <input type="text" id="txtPekerjaan" name="txtPekerjaan" placeholder="Masukkan Pekerjaan Anda" required autocomplete="pekerjaan">
-        </label>
 
         <label for="txtNama_ortu"><span>Nama Orang Tua:</span>
           <input type="text" id="txtNama_ortu" name="txtNama_ortu" placeholder="Masukkan Nama Orang Tua Anda" required autocomplete="namaorangtua">
