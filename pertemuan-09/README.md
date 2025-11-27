@@ -19,4 +19,5 @@
   <li>menambahkan file baru fungsi.php</li>
   <li>menambahkan function format tanggal</li>
   <li>menampilkan isi biodata</li>
+  <li>modif baris 121-127</li>
 </ol>
