@@ -12,4 +12,5 @@
   <li>echo session ke nilai label section contact</li>
   <li>echo session ke nilai label section contact selesai</li>
   <li>modif baris 10-19 di proses.php</li>
+  <li>modif baris 23-32 di proses.php</li>
 </ol>
