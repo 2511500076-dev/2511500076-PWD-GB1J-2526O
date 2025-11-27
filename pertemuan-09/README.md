@@ -18,4 +18,5 @@
   <li>menghapus isi dari section about</li>
   <li>menambahkan file baru fungsi.php</li>
   <li>menambahkan function format tanggal</li>
+  <li>menampilkan isi biodata</li>
 </ol>
