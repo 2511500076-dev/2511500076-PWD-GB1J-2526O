@@ -16,4 +16,5 @@
   <li>mengisi session biodata</li>
   <li>memperbaiki eror baris 121-133</li>
   <li>menghapus isi dari section about</li>
+  <li>menambahkan file baru fungsi.php</li>
 </ol>
