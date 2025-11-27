@@ -125,7 +125,6 @@ $fieldConfig = [
           <?= $metadata["suffix"] ?>
       </p>
       <?php endforeach; ?>
-
     </section>
 
     <section id="contact">
