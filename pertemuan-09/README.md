@@ -14,4 +14,5 @@
   <li>modif baris 10-19 di proses.php</li>
   <li>modif baris 23-32 di proses.php</li>
   <li>mengisi session biodata</li>
+  <li>memperbaiki eror baris 121-133</li>
 </ol>
