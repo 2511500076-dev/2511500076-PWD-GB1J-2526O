@@ -14,3 +14,5 @@ Belajar sebagai berikut:<br>
 <li>membuat tbl_tamu di query</li>
 <li>menambah file baru read.php dan mengisi file tersebut</li>
 <li>modif file di index.php agar file read_inc.php berhasil</li>
+<li>menambahkan file sql ke pertemuan 10</li>
+</ol>
