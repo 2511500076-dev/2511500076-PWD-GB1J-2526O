@@ -13,4 +13,4 @@ Belajar sebagai berikut:<br>
 <li>mengatur phpmyadmin dan menambahkan nama database</li>
 <li>membuat tbl_tamu di query</li>
 <li>menambah file baru read.php dan mengisi file tersebut</li>
-</ol>
+<li>modif file di index.php agar file read_inc.php berhasil</li>
