@@ -12,4 +12,5 @@ Belajar sebagai berikut:<br>
 <li>menambah file baru koneksi.php dan mengisi file tersebut</li>
 <li>mengatur phpmyadmin dan menambahkan nama database</li>
 <li>membuat tbl_tamu di query</li>
+<li>menambah file baru read.php dan mengisi file tersebut</li>
 </ol>
