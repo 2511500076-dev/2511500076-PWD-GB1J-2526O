@@ -10,4 +10,5 @@ Belajar sebagai berikut:<br>
 <ol>
 <li>mengekstrak file dari elearning ke file saya</li>
 <li>menambah file baru koneksi.php dan mengisi file tersebut</li>
+<li>mengatur phpmyadmin dan menambahkan nama database</li>
 </ol>
