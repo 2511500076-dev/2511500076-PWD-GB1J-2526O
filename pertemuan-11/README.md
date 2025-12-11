@@ -15,4 +15,5 @@ Belajar sebagai berikut:<br>
 <li>tampilkan nilai lama buat antisipasi eror</li>
 <li>cek requqest method menggunakan 'post'</li>
 <li>ambil data post</li>
+<li>mengisi validasi</li>
 </ol>
