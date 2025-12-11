@@ -16,4 +16,5 @@ Belajar sebagai berikut:<br>
 <li>cek requqest method menggunakan 'post'</li>
 <li>ambil data post</li>
 <li>mengisi validasi</li>
+<li>insert data tbl_tamu</li>
 </ol>
