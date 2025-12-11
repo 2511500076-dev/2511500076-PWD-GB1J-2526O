@@ -12,6 +12,7 @@ Belajar sebagai berikut:<br>
 <li>update fungsi.php</li>
 <li>update file index.php</li>
 <li>menampilkan flash massage pada section #contact</li>
-<li>tampilkan nilai lama buat antisipasi eror</li>]
+<li>tampilkan nilai lama buat antisipasi eror</li>
 <li>cek requqest method menggunakan 'post'</li>
+<li>ambil data post</li>
 </ol>
