@@ -11,4 +11,6 @@ Belajar sebagai berikut:<br>
 <li>copy file pertemuan 10 ke 11</li>
 <li>update fungsi.php</li>
 <li>update file index.php</li>
+<li>menampilkan flash massage pada section #contact</li>
+<li>tampilkan nilai lama buat antisipasi eror</li>
 </ol>
