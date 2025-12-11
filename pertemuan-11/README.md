@@ -10,4 +10,5 @@ Belajar sebagai berikut:<br>
 <ol>
 <li>copy file pertemuan 10 ke 11</li>
 <li>update fungsi.php</li>
+<li>update file index.php</li>
 </ol>
